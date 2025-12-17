@@ -1,0 +1,6 @@
+gradio>=3.40
+transformers>=4.30
+torch>=2.0
+pillow>=9.0
+numpy>=1.25
+
